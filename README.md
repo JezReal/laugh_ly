@@ -1,6 +1,6 @@
 # laugh_ly
 
-A new Flutter project.
+A simple flutter app made using the [OfficialJokeAPI](https://github.com/15Dkatz/official_joke_api).
 
 ## Getting Started
 
